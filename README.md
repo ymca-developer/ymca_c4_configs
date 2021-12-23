@@ -1,5 +1,5 @@
 # YMCA_C4 configs
-##EN
+## EN
 This repo is for example DayZ Standalone mod config files.
 
 Config parameters:
@@ -31,7 +31,7 @@ There are some config files describing supported mod construction:
 They consist of completely filled constructions. In the real configs you have to remove some of attachments and replace MaxHP param with your value.
 
 
-##RU
+## RU
 Этот репозиторий преднозначен для примеров config файлов для мода на DayZ Stanalone.
 
 Параметры config'а:
