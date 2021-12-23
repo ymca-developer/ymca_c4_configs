@@ -17,7 +17,7 @@ Config parameters:
 	* StartM - start of work (minutes)
 	* EndH  - end of work (hour)
 	* EndM - end of work (minutes)
-	Time format is 24h
+	Time must be 24h format Moscow local (UTC +3)
 
 Typical config illustrating real-life settings based on vanilla fence is default_config.json.
 
@@ -49,7 +49,7 @@ They consist of completely filled constructions. In the real configs you have to
 	* StartM - начало работы (минуты)
 	* EndH  - конеч работы (час)
 	* EndM - конеч работы (минуты)
-	Формат времени 24-х часовой
+	Время в 24-х часовом формате по Москве (UTC +3)
 
 Типичный config, описывающий реальные настройки и основанный на ванильных воротах - default_config.json.
 
@@ -61,5 +61,3 @@ They consist of completely filled constructions. In the real configs you have to
 * evenmoredoors https://steamcommunity.com/sharedfiles/filedetails/?id=2488972914
 
 Они содержат полностью заполненные частями постройки в AvailiableTargets. В реальных конфигах необходимо удалить ненужные части и поменять значение MaxHP на свое.
-
-
