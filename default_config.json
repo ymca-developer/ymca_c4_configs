@@ -1,0 +1,56 @@
+{
+    "AvailiableTargets": [
+        {
+            "Type":"Fence",
+            "MaxHP": 3,
+            "RequiredAttachments": [
+                "wall_metal_down",
+                "wall_metal_up",
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"Fence",
+            "MaxHP": 2,
+            "RequiredAttachments": [
+                "wall_metal_down",
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"Fence",
+            "MaxHP": 2,
+            "RequiredAttachments": [
+                "wall_metal_up",
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"Fence",
+            "MaxHP": 1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        }
+    ],
+    "WeekTimetable": [
+        {
+            "Day":"Friday",
+            "StartH":12,
+            "StartM":0,
+            "EndH":18,
+            "EndM":0
+        },
+        {
+            "Day":"Sunday",
+            "StartH":12,
+            "StartM":0,
+            "EndH":16,
+            "EndM":0
+        }
+    ],
+    "State": 1,
+    "C4InitTime": 60,
+    "C4Distance": 1.0,
+    "C4DisarmTime": 15.0
+}

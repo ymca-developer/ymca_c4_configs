@@ -1,0 +1,345 @@
+{
+    "AvailiableTargets": [
+        {
+            "Type":"BBP_T1_Wall",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_frame",
+                "t1_wall_logs_horizontal",
+                "t1_wall_planks_horizontal",
+                "t1_wall_planks_vertical"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Wall",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_frame",
+                "t2_wall_metal_panels",
+                "t2_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Wall",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_frame",
+                "t3_wall_concrete_bricks",
+                "t3_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Wall_Half",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_frame",
+                "t1_wall_logs_horizontal",
+                "t1_wall_planks_horizontal",
+                "t1_wall_planks_vertical"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Wall_Half",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_frame",
+                "t2_wall_metal_panels"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Wall_Half",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_frame",
+                "t3_wall_concrete_bricks"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Window",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_frame",
+                "t1_wall_planks_vertical",
+                "t1_window",
+                "t1_window_upgrade_bars"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Window",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_frame",
+                "t2_wall_metal_panels",
+                "t2_window",
+                "t2_window_upgrade_bars"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Window",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_frame",
+                "t3_wall_concrete_bricks",
+                "t3_window",
+                "t3_window_upgrade_bars"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Door",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_frame",
+                "t1_wall_planks_vertical",
+                "t1_door",
+                "t1_door_upgrade_metal",
+                "t1_wall_logs_horizontal"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Door",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_frame",
+                "t2_wall_metal_panels",
+                "t2_door",
+                "t2_door_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Door",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_frame",
+                "t3_wall_concrete_bricks",
+                "t3_door"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Roof",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Roof",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Roof",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Floor",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Floor",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Floor",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Stair",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Stair",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_roof_floor",
+                "t2_railing_left",
+                "t2_railing_right"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Stair",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Floor_Hatch",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor",
+                "t1_stair",
+                "t1_hatch"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Floor_Hatch",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_roof_floor",
+                "t3_stair",
+                "t3_hatch"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Roof_Hatch",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor",
+                "t1_stair",
+                "t1_hatch"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Roof_Hatch",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_roof_floor",
+                "t2_stair",
+                "t2_hatch"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Roof_Hatch",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_roof_floor",
+                "t3_stair",
+                "t3_hatch"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Ramp",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Ramp_Wide",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_Underground_Bunker",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_door_frame",
+                "t3_door_wood"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Gate",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_frame",
+                "t1_gate"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Gate",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_frame",
+                "t2_gate",
+                "t2_gate_2"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Gate",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_frame",
+                "t3_gate",
+                "t3_gate_2"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Door_Half",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_frame",
+                "t3_wall_concrete_bricks",
+                "t3_door"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Foundation",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Foundation",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t2_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_T3_Foundation",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t3_roof_floor"
+            ]
+        },
+        {
+            "Type":"BBP_Pillar",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "pillar_base",
+                "pillar_logs_half",
+                "pillar_logs",
+                "pillar_metal_half",
+                "pillar_metal",
+                "pillar_concrete_half",
+                "pillar_concrete"
+            ]
+        },
+        {
+            "Type":"BBP_Well",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "well_dirt_01",
+                "well_dirt_02",
+                "well_dirt_03",
+                "well_dirt_04",
+                "well_dirt_05",
+                "well_dirt_06",
+                "well_base"
+            ]
+        },
+        {
+            "Type":"BBP_Dance_Floor",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "t1_roof_floor"
+            ]
+        }
+    ],
+    "WeekTimetable": [
+    ],
+    "State": 1,
+    "C4InitTime": 60,
+    "C4Distance": 1.0,
+    "C4DisarmTime": 15.0
+}

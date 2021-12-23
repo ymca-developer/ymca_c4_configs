@@ -1,0 +1,103 @@
+{
+    "AvailiableTargets": [
+        {
+            "Type":"ChopperPost2",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_pillar"
+            ]
+        },
+        {
+            "Type":"ChopperPostHalf",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_half_pillar"
+            ]
+        },
+        {
+            "Type":"ChopperWall3",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_wall",
+                "simple_wall_upgrade_logs",
+                "dummy_gate",
+                "simple_wall_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"ChopperDoor2",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_door_frame",
+                "simple_door_frame_upgrade_logs",
+                "simple_door",
+                "simple_door_upgrade_metal",
+                "simple_door_upgrade_logs",
+                "simple_door_frame_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"ChopperGate",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_gate_frame",
+                "simple_gate",
+                "simple_gate_upgrade_metal",
+                "simple_gate_upgrade_logs"
+            ]
+        },
+        {
+            "Type":"ChopperWallHalf",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_half_wall",
+                "simple_half_wall_upgrade_logs",
+                "dummy_gate",
+                "simple_half_wall_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"ChopperWindow",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_window_frame",
+                "simple_window_frame_upgrade_logs",
+                "simple_window",
+                "simple_window_upgrade_bars",
+                "simple_window_upgrade_metal",
+                "simple_window_frame_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"ChopperRoof2",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_roof",
+                "dummy_gate",
+                "simple_roof_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"ChopperFloor4",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_floor",
+                "dummy_gate"
+            ]
+        },
+        {
+            "Type":"ChopperStaircase",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "simple_staircase",
+                "dummy_gate"
+            ]
+        }
+    ],
+    "WeekTimetable": [
+    ],
+    "State": 1,
+    "C4InitTime": 60,
+    "C4Distance": 1.0,
+    "C4DisarmTime": 15.0
+}

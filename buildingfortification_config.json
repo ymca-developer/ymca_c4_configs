@@ -1,0 +1,19 @@
+{
+    "AvailiableTargets": [
+        {
+            "Type":"WindowBarricade",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "base",
+                "step_one",
+                "step_two"
+            ]
+        }
+    ],
+    "WeekTimetable": [
+    ],
+    "State": 1,
+    "C4InitTime": 60,
+    "C4Distance": 1.0,
+    "C4DisarmTime": 15.0
+}

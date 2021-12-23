@@ -1,0 +1,59 @@
+{
+    "AvailiableTargets": [
+        {
+            "Type":"MoreDoorVault",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"MoreDoorSmall",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"MoreDoorSmallShanty",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"MoreDoorSmallMetal",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"MoreDoorBarricade",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"MoreDoorMetalBarricade",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        },
+        {
+            "Type":"MoreDoorSafe",
+            "MaxHP": -1,
+            "RequiredAttachments": [
+                "wall_gate"
+            ]
+        }
+    ],
+    "WeekTimetable": [
+    ],
+    "State": 1,
+    "C4InitTime": 60,
+    "C4Distance": 1.0,
+    "C4DisarmTime": 15.0
+}
