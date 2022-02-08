@@ -1,0 +1,61 @@
+{
+    "AvailiableTargets": [
+        {
+            "Type":"BBP_T1_Door",
+            "MaxHP": 2,
+            "RequiredAttachments": [
+                "t1_door",
+                "t1_door_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Door",
+            "MaxHP": 1,
+            "RequiredAttachments": [
+                "t1_door"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Door",
+            "MaxHP": 4,
+            "RequiredAttachments": [
+                "t2_door",
+                "t2_door_upgrade_metal"
+            ]
+        },
+        {
+            "Type":"BBP_T2_Door",
+            "MaxHP": 3,
+            "RequiredAttachments": [
+                "t2_door"
+            ]
+        },
+        {
+            "Type":"BBP_T1_Floor_Hatch",
+            "MaxHP": 1,
+            "RequiredAttachments": [
+                "t1_hatch"
+            ]
+        }
+    ],
+    "WeekTimetable": [
+        {
+            "Day":"Friday",
+            "StartH":12,
+            "StartM":0,
+            "EndH":18,
+            "EndM":0
+        },
+        {
+            "Day":"Sunday",
+            "StartH":12,
+            "StartM":0,
+            "EndH":16,
+            "EndM":0
+        }
+    ],
+    "State": 1,
+    "C4InitTime": 60,
+    "C4Distance": 1.0,
+    "C4DisarmTime": 15.0
+}
